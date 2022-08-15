@@ -1,0 +1,7 @@
+City;Latitude;Longitude;Country;Population
+Izmir;384361;271518;Turkey;2587000
+Athens;379833;237333;Greece;3242000
+Rome;418960;124833;Italy;3339000
+Barcelona;413833;21834;Spain;4920000
+London;515000;-1167;United Kingdom;8567000
+Amsterdam;523500;49166;Netherlands;1031000
